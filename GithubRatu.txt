@@ -4,4 +4,4 @@ Untuk belajar Github harus mengetahui beberapa terminologi berikut
 3. Branch
 4. Marge
 5. Clone
-6. Konflik
+
